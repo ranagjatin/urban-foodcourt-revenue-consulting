@@ -48,9 +48,10 @@ Urban food courts in malls experience high footfall, but low conversion rates an
 
 ## 📁 Files
 
-- `/Presentation/Consult-SocBiz.pdf` – Full project report & solution
-- `/Execution_Plan.md` – (Add execution plan later)
-- `/Data/` – (Placeholder for survey/feedback if available)
+- 📄 [Consult-SocBiz.pdf](./Presentation/Consult-SocBiz.pdf) – Full project report & solution  
+- 🛠️ [Execution_Plan.md](./Execution_Plan.md) – 30-day rollout execution plan  
+- 📁 [Data Folder](./Data) – (Placeholder for survey/feedback if available)  
+- 📁 [Images Folder](./Images) – (Placeholder for visual charts/screenshots)  
 
 ---
 
