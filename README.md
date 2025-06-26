@@ -48,7 +48,7 @@ Urban food courts in malls experience high footfall, but low conversion rates an
 
 ## 📁 Files
 
-- 📄 [Consult-SocBiz.pdf]([./Consult - SocBIz.pdf](https://github.com/ranagjatin/urban-foodcourt-revenue-consulting/blob/c73a1e7fc41c4072870de2d8ef1bceaf879d9727/Consult%20-%20SocBIz.pdf)) – Full project report & solution  
+- 📄 [Consult-SocBiz.pdf]([[./Consult - SocBIz.pdf](https://github.com/ranagjatin/urban-foodcourt-revenue-consulting/blob/c73a1e7fc41c4072870de2d8ef1bceaf879d9727/Consult%20-%20SocBIz.pdf)](https://github.com/ranagjatin/urban-foodcourt-revenue-consulting/blob/c73a1e7fc41c4072870de2d8ef1bceaf879d9727/Consult%20-%20SocBIz.pdf) – Full project report & solution  
 - 🛠️ [Execution_Plan.md](./Execution_Plan.md) – 30-day rollout execution plan  
 
 ---
