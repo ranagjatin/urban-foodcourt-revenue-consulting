@@ -1,7 +1,7 @@
 # Boosting Conversion & Revenue in Underperforming Urban Food Courts
 
 🧠 **Project Type**: Business Consulting  
-📍 **Organization**: Society of Business (IIT Roorkee) - Open Projects  
+📍 **Organization**:  Technopedia 2025 - Open Projects  
 📅 **Timeline**: 2025  
 👨‍💼 **Consultant**: Jatin Rana ([LinkedIn](https://www.linkedin.com/in/jatin-rana-0a5632259))
 
